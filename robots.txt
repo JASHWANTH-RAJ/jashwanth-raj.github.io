@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jashwanth-raj.github.io/sitemap.xml
