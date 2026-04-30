@@ -7,4 +7,4 @@ This is my first website hosted on github. Basically in this website you can get
 The Main Purpose To Create This Website To Check My Skills And Improve My Knowldege in Front-End Web Devlopment.
 
 You Can Suggest Me How Improve My Webpage Or Skills.<br>
-Website Link : https://jashwanth-raj.github.io/website.github.io/#   
+Website Link : https://jashwanth-raj.github.io/
