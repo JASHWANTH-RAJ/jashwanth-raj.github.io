@@ -1,4 +1,4 @@
-const CACHE_NAME = "jashwanth-raj-offline-v1";
+const CACHE_NAME = "jashwanth-raj-offline-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
